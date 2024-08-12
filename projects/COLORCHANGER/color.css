@@ -1,0 +1,46 @@
+
+body{
+    background-color:#fff ;
+    padding: 40px;
+    display: block;
+   
+}
+#text{
+    margin-top:30%;
+    
+}
+
+
+
+
+.button{
+    margin:0.1cm;
+    margin-top: 50rem;
+    justify-content: space-evenly;
+    border-width: 10px;
+    border-color:black;
+    border-radius: 50px;
+    width:100px;
+    height:100px;
+    padding:0.5cm;
+    position: relative;
+
+    /* align-content: baseline; */
+    
+
+}
+#deepskyblue{
+    background-color:deepskyblue;
+}
+#orange{
+    background-color:orange;
+}
+#purple{
+   background-color: purple;    
+}
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
