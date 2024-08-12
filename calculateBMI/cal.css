@@ -1,0 +1,12 @@
+
+body{
+    background-color:#bbacbb;
+}
+
+form{
+    background-color: rgb(154, 172, 187);
+    padding: 0.5cm;
+}
+#result , #weightGuide{
+     text-align: center;
+}
